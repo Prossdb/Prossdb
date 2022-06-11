@@ -1,6 +1,6 @@
 <p align="center"><img height="300" src="https://media1.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif?cid=ecf05e471b2krz7smfyk1ppsx5mw6aijg72nc4b8cnikwbd4&rid=giphy.gif&ct=g" width="600" ></p>
 <h1 align="center">Hi 👋, I'm Pro Dube</h1>
-<h3 align="center">A passionate Full Stack Web Developer developer from Johannesburg, South Africa</h3>
+<h3 align="center">A passionate Full Stack Web Developer, from Johannesburg, South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prossdb&label=Profile%20views&color=0e75b6&style=flat" alt="prossdb" /> </p>
 
