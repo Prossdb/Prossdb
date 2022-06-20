@@ -1,4 +1,4 @@
-<p align="center"><img height="300" src="https://media1.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif?cid=ecf05e471b2krz7smfyk1ppsx5mw6aijg72nc4b8cnikwbd4&rid=giphy.gif&ct=g" width="600" ></p>
+<p align="center"><img height="300" src="https://media1.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif?cid=ecf05e471b2krz7smfyk1ppsx5mw6aijg72nc4b8cnikwbd4&rid=giphy.gif&ct=g" width="800" ></p>
 <h1 align="center">Hi 👋, I'm Pro Dube</h1>
 <h3 align="center">A passionate Full Stack Web Developer, from Johannesburg, South Africa</h3>
 
