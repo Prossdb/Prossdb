@@ -72,7 +72,7 @@
           <h3 align="center">Drawing App</h3>
           <p align="center">
             <a href="https://github.com/Prossdb/drawing-app.git" target="_blank" rel="noreferrer"> <img src="C:\Users\Prosper\Documents\Portfolio\webpage pro\images\screen rekod.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/Prossdb/drawing-app.git" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://github.com/Prossdb/drawing-app.git" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://media.giphy.com/media/HLVmhR3gZ6JULplckb/giphy.gif" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://github.com/Prossdb/drawing-app.git" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               A drawing app on canvas showcasing javascript skills.
             </p>
