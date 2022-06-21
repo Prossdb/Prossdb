@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Prossdb/Pro Dube/blob/main/Class%20of%202021%20BS%20Business%20Administration.png)](http://prodube.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/df49f2f6-9e0f-42fe-8b6d-4470e2391122/deploy-status)](https://app.netlify.com/sites/prodube/deploys)
 <!-- <h1 align="center">👋 This is Pro Dube - full stack software engineer</h1> -->
 <h3 align="center">Hi 👋 This is Pro Dube, a full stack software engineer based in Johannesburg, South Africa.</h3>
 <p align="center">I'm currently learning and building with HTML, CSS, JavaScript & the MERN stack at 100Devs Agency. Feel free to stay awhile and browse through my latest projects. Don't hesitate to reach out if you would like to hire me or collaborate on anything web development.</p>
