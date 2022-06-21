@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/df49f2f6-9e0f-42fe-8b6d-4470e2391122/deploy-status)](https://app.netlify.com/sites/prodube/deploys)
+
 <!-- <h1 align="center">👋 This is Pro Dube - full stack software engineer</h1> -->
 <h3 align="center">Hi 👋 This is Pro Dube, a full stack software engineer based in Johannesburg, South Africa.</h3>
 <p align="center">I'm currently learning and building with HTML, CSS, JavaScript & the MERN stack at 100Devs Agency. Feel free to stay awhile and browse through my latest projects. Don't hesitate to reach out if you would like to hire me or collaborate on anything web development.</p>
@@ -101,13 +101,12 @@
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">This is an COVID App that updates stats everyday or on refresh</h3>
+          <h3 align="center">A Johannesburg grooming website </h3>
           <p align="center">
-            <a href="https://github.com/rajea-bilal/george-barbers" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/LpV9LfuspToXQnVhfh/giphy.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/rajea-bilal/george-barbers" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://george-barbers.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
+            <a href="https://github.com/Prossdb/Johannesburg-grooming.git" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/BmMtJgPzq3pRVb73XF/giphy.gif" alt="project example"/> </a>
+            <span> <a href="https://media.giphy.com/media/BmMtJgPzq3pRVb73XF/giphy.gif" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://github.com/Prossdb/Johannesburg-grooming.git" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random APOD"
-              Worked on a client website to provide a web presence for their hairstyling business. 
+             View Johannesburg grooming site showcasing some cool html and css skills. 
             </p>
           </p>
         </td>
