@@ -71,7 +71,7 @@
         <td width="50%">
           <h3 align="center">Drawing App</h3>
           <p align="center">
-            <a href="https://github.com/Prossdb/drawing-app.git" target="_blank" rel="noreferrer"> <img src="C:\Users\Prosper\Documents\Portfolio\webpage pro\images\screen rekod.gif" alt="project example"/> </a>
+            <a href="https://github.com/Prossdb/drawing-app.git" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/HLVmhR3gZ6JULplckb/giphy.gif"/> </a>
             <span> <a href="https://media.giphy.com/media/HLVmhR3gZ6JULplckb/giphy.gif" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://github.com/Prossdb/drawing-app.git" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               A drawing app on canvas showcasing javascript skills.
@@ -81,8 +81,8 @@
         <td width="50%">
           <h3 align="center">A landing page for a login site</h3>
           <p align="center">
-            <a href="https://github.com/Prossdb/Landing-page-.git" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/YILLeAajL6GaFR6qbj/giphy.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/Prossdb/Landing-page-.git" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://github.com/Prossdb/Landing-page-.git" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
+            <a href="https://github.com/Prossdb/Landing-page-.git" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/bxgE8QomtfvIE9Gv1V/giphy.gif" alt="project example"/> </a>
+            <span> <a href="https://media.giphy.com/media/bxgE8QomtfvIE9Gv1V/giphy.gif" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://github.com/Prossdb/Landing-page-.git" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
             <p align="center">
            A landing page for a login site.
             </p>
@@ -93,8 +93,8 @@
         <td width="50%">
           <h3 align="center">This is an COVID App that updates stats everyday or on refresh</h3>
           <p align="center">
-            <a href="https://github.com/Prossdb/Covid-App.git" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/LpV9LfuspToXQnVhfh/giphy.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/Prossdb/Covid-App.git" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://github.com/Prossdb/Covid-App.git" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a></span>
+            <a href="https://github.com/Prossdb/Covid-App.git" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/6WOToaaGTjSRQGTR7C/giphy.gif" alt="project example"/> </a>
+            <span> <a href="https://media.giphy.com/media/6WOToaaGTjSRQGTR7C/giphy.gif" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://github.com/Prossdb/Covid-App.git" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a></span>
             <p align="center">
               This is an COVID App that updates stats everyday or on refresh.
             </p>
